@@ -1,0 +1,15 @@
+# Site settings
+title: Chris Mendis' Blog
+email: chris.mendis@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'm a Web Developer at Format.com in Toronto, Canada. I'll
+  post random thoughts and sundry ramblings here from time to
+  exceedingly rare time.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://chrismendis.js.org" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+timezone: America/New_York
+
+# Build settings
+markdown: kramdown
